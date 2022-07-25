@@ -1,0 +1,24 @@
+{
+  "title": "Colorado Water Education Organizations",
+  "description": "Colorado Water Education Organizations.",
+  "identifier": "owf-data-co-water-education-orgs",
+  "landingPage": "https://data.openwaterfoundation.org/state/co/owf/water-education-orgs/",
+  "issued": "2022-07-24",
+  "keyword": [
+    "polygon",
+    "water education"
+  ],
+  "publisher": {
+    "name": "Open Water Foundation",
+    "mbox": "info@openwaterfoundation.org"
+  },
+  "distribution": [
+    {
+      "accessURL": "",
+      "byteSize": null,
+      "description": "Resource locator",
+      "format": "application/geo+json",
+      "title": "Colorado Water Education Organizations"
+    }
+  ]
+}

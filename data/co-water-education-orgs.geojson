@@ -1,0 +1,342 @@
+{
+  "type": "FeatureCollection",
+  "bbox": [-105.14096, 40.321511, -104.5198, 40.61573],
+  "features": [
+      {
+      "type": "Feature",
+      "bbox": [-105.083123, 40.575508, -105.083123, 40.575508],
+      "properties": {
+        "Organization": "Colorado Water Center",
+        "OrganizationType": "Research center",
+        "Description": "Located at Colorado State University",
+        "Programs": "Water Literate Leaders, university programs, resources, and publications.",
+        "Website": "https://watercenter.colostate.edu/",
+        "InBasin": "Yes",
+        "Longitude": -105.083123,
+        "Latitude": 40.575508,
+        "LongitudeMain": null,
+        "LatitudeMain": null,
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.083123, 40.575508]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.019684, 40.556147, -105.019684, 40.556147],
+      "properties": {
+        "Organization": "Environmental Learning Center",
+        "OrganizationType": "University",
+        "Description": "University research with community access.",
+        "Programs": "River habitat education, wildlife.",
+        "Website": "https://warnercnr.colostate.edu/elc/",
+        "InBasin": "Yes",
+        "Longitude": -105.019684,
+        "Latitude": 40.556147,
+        "LongitudeMain": null,
+        "LatitudeMain": null,
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.019684, 40.556147]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.07795, 40.5936, -105.07795, 40.5936],
+      "properties": {
+        "Organization": "Fort Collins Museum of Discovery",
+        "OrganizationType": "Museum",
+        "Description": "Science museum",
+        "Programs": "Hands on displays and programs",
+        "Website": "https://fcmod.org/",
+        "InBasin": "Yes",
+        "Longitude": -105.07795,
+        "Latitude": 40.5936,
+        "LongitudeMain": null,
+        "LatitudeMain": null,
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.07795, 40.5936]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.14096, 40.61573, -105.14096, 40.61573],
+      "properties": {
+        "Organization": "Fort Collins Water Works",
+        "OrganizationType": "Nonprofit",
+        "Description": "Fort Collins Water Works",
+        "Programs": "Historical site.",
+        "Website": "http://poudrelandmarks.org/water-works",
+        "InBasin": "Yes",
+        "Longitude": -105.14096,
+        "Latitude": 40.61573,
+        "LongitudeMain": null,
+        "LatitudeMain": null,
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.14096, 40.61573]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.085129, 40.561815, -105.085129, 40.561815],
+      "properties": {
+        "Organization": "Gardens on Spring Creek",
+        "OrganizationType": "Nonprofit",
+        "Description": "Community garden",
+        "Programs": "Botanical garden with educational events",
+        "Website": "https://www.fcgov.com/gardens/",
+        "InBasin": "Yes",
+        "Longitude": -105.085129,
+        "Latitude": 40.561815,
+        "LongitudeMain": null,
+        "LatitudeMain": null,
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.085129, 40.561815]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-104.716834, 40.428258, -104.716834, 40.428258],
+      "properties": {
+        "Organization": "Houston Gardens",
+        "OrganizationType": "Nonprofit",
+        "Description": "Community garden",
+        "Programs": "Botanical garden with educational events",
+        "Website": "https://www.wgcd.org/houston-gardens/",
+        "InBasin": "Yes",
+        "Longitude": -104.716834,
+        "Latitude": 40.428258,
+        "LongitudeMain": null,
+        "LatitudeMain": null,
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.716834, 40.428258]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.076491, 40.321511, -105.076491, 40.321511],
+      "properties": {
+        "Organization": "Northern Water",
+        "OrganizationType": "Water provider",
+        "Description": "Northern Colorado raw water provider",
+        "Programs": "System tours, water conservation, teacher information.",
+        "Website": "https://www.northernwater.org/in-the-community/education-and-outreach",
+        "InBasin": "Yes",
+        "Longitude": -105.076491,
+        "Latitude": 40.321511,
+        "LongitudeMain": null,
+        "LatitudeMain": null,
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.076491, 40.321511]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.072196, 40.596562, -105.072196, 40.596562],
+      "properties": {
+        "Organization": "Open Water Foundation",
+        "OrganizationType": "Nonprofit",
+        "Description": "Focus on open source software and open data",
+        "Programs": "Water data and tools for education",
+        "Website": "http://openwaterfoundation.org/",
+        "InBasin": "Yes",
+        "Longitude": -105.072196,
+        "Latitude": 40.596562,
+        "LongitudeMain": null,
+        "LatitudeMain": null,
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.072196, 40.596562]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.007556, 40.565895, -105.007556, 40.565895],
+      "properties": {
+        "Organization": "Poudre Heritage Alliance",
+        "OrganizationType": "Nonprofit",
+        "Description": "Focuses on history of the Poudre River",
+        "Programs": "Historical and cultural.",
+        "Website": "https://www.poudreheritage.org/",
+        "InBasin": "Yes",
+        "Longitude": -105.007556,
+        "Latitude": 40.565895,
+        "LongitudeMain": null,
+        "LatitudeMain": null,
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.007556, 40.565895]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-104.812639, 40.441883, -104.812639, 40.441883],
+      "properties": {
+        "Organization": "Poudre Learning Center",
+        "OrganizationType": "Nonprofit",
+        "Description": "Focuses on Poudre River education",
+        "Programs": "Program for students, families, and citizens.",
+        "Website": "https://poudrelearningcenter.org/",
+        "InBasin": "Yes",
+        "Longitude": -104.812639,
+        "Latitude": 40.441883,
+        "LongitudeMain": null,
+        "LatitudeMain": null,
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.812639, 40.441883]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.06962, 40.59264, -105.06962, 40.59264],
+      "properties": {
+        "Organization": "Poudre RiverFest",
+        "OrganizationType": "Nonprofit",
+        "Description": "Education. Restoration. Celebration.",
+        "Programs": "Annual Poudre River festival with exhibits.",
+        "Website": "https://poudreriverfest.org/",
+        "InBasin": "Yes",
+        "Longitude": -105.06962,
+        "Latitude": 40.59264,
+        "LongitudeMain": null,
+        "LatitudeMain": null,
+        "Note": "Location is near New Belgium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.06962, 40.59264]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-104.597244, 40.421966, -104.597244, 40.421966],
+      "properties": {
+        "Organization": "South Platte Basin",
+        "OrganizationType": "River basin group",
+        "Description": "Supports South Platte and Metro Basin Roundtables",
+        "Programs": "See Public Education and Outreach (PEPO)",
+        "Website": "https://southplattebasin.com/",
+        "InBasin": "No",
+        "Longitude": -104.597244,
+        "Latitude": 40.421966,
+        "LongitudeMain": null,
+        "LatitudeMain": null,
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.597244, 40.421966]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-104.5198, 40.49187, -104.5198, 40.49187],
+      "properties": {
+        "Organization": "The Water Desk",
+        "OrganizationType": "University",
+        "Description": "An initiative of the Center for Environmental Journalism at the University of Colorado Boulder",
+        "Programs": "Journalism",
+        "Website": "https://waterdesk.org/",
+        "InBasin": "No",
+        "Longitude": -104.5198,
+        "Latitude": 40.49187,
+        "LongitudeMain": null,
+        "LatitudeMain": null,
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.5198, 40.49187]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-104.575237, 40.419889, -104.575237, 40.419889],
+      "properties": {
+        "Organization": "Water Education Colorado",
+        "OrganizationType": "Nonprofit",
+        "Description": "Water education for all of Colorado",
+        "Programs": "Publications, Water Leaders, tours, Water Educator Network, others",
+        "Website": "https://www.watereducationcolorado.org/",
+        "InBasin": "No",
+        "Longitude": -104.575237,
+        "Latitude": 40.419889,
+        "LongitudeMain": -104.972905,
+        "LatitudeMain": 39.742073,
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.575237, 40.419889]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.08441, 40.57289, -105.08441, 40.57289],
+      "properties": {
+        "Organization": "Water Resources Archive",
+        "OrganizationType": "University",
+        "Description": "Water resources archive",
+        "Programs": "Historical documents related to water resources",
+        "Website": "https://lib.colostate.edu/find/archives-special-collections/collections/water-resources-archive/",
+        "InBasin": "Yes",
+        "Longitude": -105.08441,
+        "Latitude": 40.57289,
+        "LongitudeMain": null,
+        "LatitudeMain": null,
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.08441, 40.57289]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-104.748876, 40.422546, -104.748876, 40.422546],
+      "properties": {
+        "Organization": "West Greeley Conservation District",
+        "OrganizationType": "Nonprofit",
+        "Description": "Water conservation",
+        "Programs": "Water conservation",
+        "Website": "https://www.wgcd.org/conservation-education/",
+        "InBasin": "Yes",
+        "Longitude": -104.748876,
+        "Latitude": 40.422546,
+        "LongitudeMain": null,
+        "LatitudeMain": null,
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.748876, 40.422546]
+      }
+    }
+  ]
+}

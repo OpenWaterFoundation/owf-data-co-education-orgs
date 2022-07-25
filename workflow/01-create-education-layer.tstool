@@ -1,0 +1,9 @@
+# Create the layer for educational organizations.
+#
+# Read education organizations from Excel worksheet:
+# - TODO smalers 2020-06-13 maybe filter by InBasin to 2 layers and show different icon
+#   or otherwise filter and change icons
+ReadTableFromExcel(TableID="EducationData",InputFile="../data/co-water-education-orgs.xlsx",Worksheet="Data",ExcelColumnNames=FirstRowInRange)
+#
+# Export table to GeoJSON format.
+WriteTableToGeoJSON(TableID="EducationData",OutputFile="../data/co-water-education-orgs.geojson",LongitudeColumn="Longitude",LatitudeColumn="Latitude")
