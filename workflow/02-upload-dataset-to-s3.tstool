@@ -1,4 +1,4 @@
-StartLog(LogFile="02-upload-dataset-to-s3.tstool.log")
+StartLog(LogFile="results/02-upload-dataset-to-s3.tstool.log")
 # Upload the Colorado water education organizations dataset to the Open Water Foundation's
 # data.openwaterfoundation.org website.
 #
@@ -9,7 +9,7 @@ SetProperty(PropertyName="InsertsFolder",PropertyType=String,PropertyValue="../.
 # Upload the files:
 # - geojson file output by GeoProcessor
 # - dataset metadata files needed for landing page
-AwsS3(S3Command="UploadObjects",Region="us-west-2",Bucket="data.openwaterfoundation.org",UploadFiles="../data/co-water-education-orgs.geojson:state/co/owf/education-orgs/co-water-education-orgs.geojson,dataset.json:state/co/owf/education-orgs/dataset.json,dataset.png:state/co/owf/education-orgs/dataset.png,dataset-details.md:state/co/owf/education-orgs/dataset-details.md")
+AwsS3(S3Command="UploadObjects",Region="us-west-2",Bucket="data.openwaterfoundation.org",UploadFiles="../data/co-water-education-orgs.geojson:state/co/owf/water-education-orgs/co-water-education-orgs.geojson,dataset.json:state/co/owf/water-education-orgs/dataset.json,dataset.png:state/co/owf/water-education-orgs/dataset.png,dataset-details.md:state/co/owf/water-education-orgs/dataset-details.md")
 #
 # Invalidate so that files are available on the CDN as soon as possible.
 # AwsCloudFront(CloudFrontCommand="ListDistributions",Region="aws-global",Comment="*data.openwaterfoundation.org*",OutputTableID="Distributions")
