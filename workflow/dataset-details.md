@@ -10,9 +10,9 @@ This may change in the future as additional basins are added to the dataset.
 
 The following files can be downloaded or used directly.
 
-| **Layer File** | **Description** |
-| -- | -- |
-| [`co-water-education-orgs.geojson`](co-water-education-orgs.geojson) | Colorado water education organizations. |
+| **Layer File** | **Description** | **View** |
+| -- | -- | -- |
+| [`co-water-education-orgs.geojson`](co-water-education-orgs.geojson) | Colorado water education organizations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/state/co/owf/water-education-orgs/co-water-education-orgs.geojson) |
 
 ## Workflow ##
 
